@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/NMicrograd.Demo/NMicrograd.Demo.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/NMicrograd/NMicrograd.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NMicrograd.Tests/NMicrograd.Tests.csproj" />
+  </Folder>
+</Solution>
