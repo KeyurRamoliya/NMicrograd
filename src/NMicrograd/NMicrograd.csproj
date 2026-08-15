@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <RootNamespace>NMicrograd</RootNamespace>
+    <AssemblyName>NMicrograd</AssemblyName>
+    <Description>A tiny scalar-valued automatic differentiation engine with a small neural network library on top.</Description>
+  </PropertyGroup>
+
+</Project>
